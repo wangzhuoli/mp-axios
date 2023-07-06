@@ -1,0 +1,12 @@
+{
+  "name": "@wangzhuoli/mp-axios",
+  "version": "1.0.0",
+  "description": "基于小程序wx.request封装类似axios的HTTP网络请求库，实现拦截器功能，支持取消请求功能。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wangzhuoli",
+  "license": "ISC"
+}
