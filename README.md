@@ -87,7 +87,7 @@ axios.interceptors.response.use(function (response) {
 
 ### 取消请求
 ```javascript
-import CancelToken from '@wangzhuoli/mp-axios/cancel/CancelToken'
+import { CancelToken } from '@wangzhuoli/mp-axios'
 
 const axios = createInstance({ baseUrl: 'http://localhost:3000' })
 
